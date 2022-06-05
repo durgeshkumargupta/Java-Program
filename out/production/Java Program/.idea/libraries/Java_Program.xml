@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Java Program">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaee-doc-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
